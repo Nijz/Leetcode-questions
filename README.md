@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nijz/Leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nijz/Leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
