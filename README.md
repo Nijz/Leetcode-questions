@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Nijz/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nijz/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2487-optimal-partition-of-string](https://github.com/Nijz/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nijz/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
+| [2487-optimal-partition-of-string](https://github.com/Nijz/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nijz/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/Nijz/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
