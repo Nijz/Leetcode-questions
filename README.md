@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
 | [2487-optimal-partition-of-string](https://github.com/Nijz/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
+| [3451-string-compression-iii](https://github.com/Nijz/Leetcode-questions/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
 | ------- |
