@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nijz/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nijz/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Nijz/Leetcode-questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nijz/Leetcode-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nijz/Leetcode-questions/tree/master/0013-roman-to-integer) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Nijz/Leetcode-questions/tree/master/1395-minimum-time-visiting-all-points) |
 ## String
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0948-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Nijz/Leetcode-questions/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
