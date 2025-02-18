@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Nijz/Leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nijz/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0948-sort-an-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nijz/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Nijz/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
 | [2487-optimal-partition-of-string](https://github.com/Nijz/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
