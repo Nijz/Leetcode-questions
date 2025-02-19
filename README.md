@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nijz/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nijz/Leetcode-questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nijz/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nijz/Leetcode-questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nijz/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nijz/Leetcode-questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nijz/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0948-sort-an-array) |
@@ -115,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Nijz/Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nijz/Leetcode-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -139,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -147,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -173,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Nijz/Leetcode-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Nijz/Leetcode-questions/tree/master/0268-missing-number) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
