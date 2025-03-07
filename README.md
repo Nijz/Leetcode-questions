@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nijz/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Nijz/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nijz/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Nijz/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nijz/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Nijz/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nijz/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nijz/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nijz/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Nijz/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Nijz/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Nijz/Leetcode-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nijz/Leetcode-questions/tree/master/0051-n-queens) |
