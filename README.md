@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nijz/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nijz/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Nijz/Leetcode-questions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Nijz/Leetcode-questions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nijz/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nijz/Leetcode-questions/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nijz/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nijz/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nijz/Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Nijz/Leetcode-questions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nijz/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Nijz/Leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Nijz/Leetcode-questions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -206,4 +209,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Nijz/Leetcode-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nijz/Leetcode-questions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Nijz/Leetcode-questions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Nijz/Leetcode-questions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Nijz/Leetcode-questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
