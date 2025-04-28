@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Nijz/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Nijz/Leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Nijz/Leetcode-questions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Nijz/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Nijz/Leetcode-questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nijz/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nijz/Leetcode-questions/tree/master/0054-spiral-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nijz/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Nijz/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Nijz/Leetcode-questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Nijz/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nijz/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nijz/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Nijz/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Nijz/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nijz/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nijz/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Nijz/Leetcode-questions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Nijz/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Nijz/Leetcode-questions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
