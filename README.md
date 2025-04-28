@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nijz/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nijz/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Nijz/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Nijz/Leetcode-questions/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Nijz/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Nijz/Leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/Nijz/Leetcode-questions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Nijz/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nijz/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nijz/Leetcode-questions/tree/master/0268-missing-number) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nijz/Leetcode-questions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Nijz/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nijz/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nijz/Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
