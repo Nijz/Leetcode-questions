@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nijz/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nijz/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nijz/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/Nijz/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 | [3451-string-compression-iii](https://github.com/Nijz/Leetcode-questions/tree/master/3451-string-compression-iii) |
 ## Sliding Window
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nijz/Leetcode-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nijz/Leetcode-questions/tree/master/0079-word-search) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
