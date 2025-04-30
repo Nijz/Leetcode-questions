@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Nijz/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nijz/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nijz/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nijz/Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nijz/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nijz/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Nijz/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nijz/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/Nijz/Leetcode-questions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nijz/Leetcode-questions/tree/master/1019-squares-of-a-sorted-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Nijz/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nijz/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Nijz/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [2487-optimal-partition-of-string](https://github.com/Nijz/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 | [3451-string-compression-iii](https://github.com/Nijz/Leetcode-questions/tree/master/3451-string-compression-iii) |
 ## Sliding Window
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nijz/Leetcode-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Nijz/Leetcode-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nijz/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Nijz/Leetcode-questions/tree/master/0389-find-the-difference) |
 ## Quickselect
 |  |
 | ------- |
