@@ -2,8 +2,8 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
         
-        int sum = 0; 
-        unordered_map<int, int>mp;
+        int sum = 0;
+        unordered_map<int, int> mp;
         mp.insert({0,1});
         int count = 0;
 
