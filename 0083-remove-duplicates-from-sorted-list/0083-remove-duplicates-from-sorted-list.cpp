@@ -27,7 +27,6 @@ public:
                 delete temp;
             } else {
                 prev = prev->next;
-                temp = temp->next;
             }
 
             temp = prev->next;
