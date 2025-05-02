@@ -40,11 +40,10 @@ public:
         
         ListNode* middle = getMiddle(slow, fast, midPrev);
         
-        ListNode* temp = middle;
         midPrev->next = middle->next;
 
-        temp->next = NULL;
-        delete temp;
+        middle->next = NULL;
+        delete middle;
 
         return head;
     }
